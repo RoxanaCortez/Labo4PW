@@ -50,6 +50,10 @@ p {
     margin:20px;
 }
 
+.img2{
+    border-radius: 15px
+}
+
 .btn{
     font-family: 'Roboto';
     height: 40px;
@@ -85,22 +89,42 @@ article{
 }
 
 #icono{
+    color: #f56a6a;
+    width: 80px;
+    height: 80px;
     float: left;
     margin:10px;
 
 }
 #icono2{
+    color: #f56a6a;
+    width: 80px;
+    height: 80px;
     float: left;
     margin:10px;
     
 }
 #icono3{
+    color: #f56a6a;
+    width: 80px;
+    height: 80px;
     float: left;
     margin:10px;
     
 }
 #icono4{
+    color: #f56a6a;
+    width: 80px;
+    height: 80px;
     float: left;
     margin:10px;
     
+}
+
+.titulo2{
+    font-family: sans-serif;
+}
+
+h3{
+    font-family: sans-serif;
 }

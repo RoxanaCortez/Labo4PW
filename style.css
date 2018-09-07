@@ -71,11 +71,6 @@ p {
     color:white;
 }
 
-.img2{
-    max-width: 99%;
-    max-height: 99%;
-}
-
 .header2{
     border-bottom:3px solid #f56a6a;
     width: 200px;
@@ -83,4 +78,14 @@ p {
 
 .contenedor2{
     display: flex;
+}
+
+article{
+    margin:10%;
+}
+
+#icono{
+    float: left;
+    margin:10px;
+    
 }
